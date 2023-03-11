@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Yahya\Desktop\GPGPU-master\GPGPU\TP01\build\_deps\stb-subbuild\CMakeFiles\90d878a99cea75fc1a67e5c20aecdfd3\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{6487F73A-5200-3921-9321-F663AFA5ADB1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
